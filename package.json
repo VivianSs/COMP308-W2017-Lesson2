@@ -1,0 +1,16 @@
+{
+  "name": "comp308-lesson2",
+  "version": "1.0.0",
+  "description": "NodeJs",
+  "main": "server.js",
+  "dependencies": {
+    "connect": "^3.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Sisi",
+  "license": "ISC"
+}
