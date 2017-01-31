@@ -1,7 +1,7 @@
 {
   "name": "comp308-lesson2",
   "version": "1.0.0",
-  "description": "NodeJs",
+  "description": "Connect Server Demo",
   "main": "server.js",
   "dependencies": {
     "connect": "^3.5.0"
@@ -12,5 +12,18 @@
     "start": "node server.js"
   },
   "author": "Sisi",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VivianSs/COMP308-W2017-Lesson2.git"
+  },
+  "keywords": [
+    "Connect",
+    "NodeJS",
+    "JavaScript"
+  ],
+  "bugs": {
+    "url": "https://github.com/VivianSs/COMP308-W2017-Lesson2/issues"
+  },
+  "homepage": "https://github.com/VivianSs/COMP308-W2017-Lesson2#readme"
 }
